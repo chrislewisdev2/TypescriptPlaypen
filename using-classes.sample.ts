@@ -16,4 +16,4 @@ button.onclick = function() {
     alert(greeter.greet());
 }
 
-document.body.appendChild(button);
+document.body.appendChild(button); 
